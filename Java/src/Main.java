@@ -1,15 +1,24 @@
+import Funcionarios.Desenvolvedor;
+import Funcionarios.Gerente;
+import Sistema.ContaCorrente;
+
 public class Main {
     public static void main(String[] args) {
 
-        Cliente lohana = new Cliente("Lohana Chaves", 2000, 222.222);
-        Gerente marcio = new Gerente("Marcio Motta", 1999, 222.222);
-        Programador lucas = new Programador("Lucas Santos", 1998, 222.212);
+        // Instância de Objetos
+        Gerente julio = new Gerente("Júlio Sabugo", 23242, 123);
+        Desenvolvedor silva = new Desenvolvedor("Silva Alberto", 23542, 123);
 
-        lohana.depositar(500);
-        lohana.depositar(5020);
 
-        lohana.transferir(500, marcio);
+        // Escopo
+        System.out.println();
 
-        System.out.println(marcio.getSaldo());
+        silva.extrato();
+        julio.extrato();
+
+        System.out.println();
+
+        System.out.println(silva.getSalarioAtual());
+        System.out.println(julio.getSalarioAtual());
     }
 }
