@@ -1,6 +1,6 @@
-package Funcionarios;
+package br.com.tavernadoshackers.funcionarios;
 
-import Sistema.Conta;
+import br.com.tavernadoshackers.sistema.Conta;
 
 public abstract class Funcionario extends Conta {
 

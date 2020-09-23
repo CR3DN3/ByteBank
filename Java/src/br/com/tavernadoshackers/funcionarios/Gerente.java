@@ -1,9 +1,9 @@
-package Funcionarios;
+package br.com.tavernadoshackers.funcionarios;
 
-public class Engenheiro extends Funcionario {
+public class Gerente extends Funcionario {
 
     // Construtor
-    public Engenheiro(String nome, double cpf, double saldo, double numeroConta) {
+    public Gerente(String nome, double cpf, double saldo, double numeroConta) {
         super(nome, cpf, saldo, numeroConta);
     }
 
@@ -11,7 +11,7 @@ public class Engenheiro extends Funcionario {
     // Métodos
     @Override
     public void recebeSalario() {
-        this.deposita(20000);
+        this.deposita(15000);
     }
 
     @Override

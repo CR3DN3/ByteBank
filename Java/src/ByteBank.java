@@ -1,5 +1,5 @@
-import Funcionarios.*;
-import Sistema.Conta;
+import br.com.tavernadoshackers.funcionarios.Engenheiro;
+import br.com.tavernadoshackers.funcionarios.Gerente;
 
 public class ByteBank {
     public static void main(String[] args) {

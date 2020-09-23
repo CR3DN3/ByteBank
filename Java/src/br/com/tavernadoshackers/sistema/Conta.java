@@ -1,4 +1,4 @@
-package Sistema;
+package br.com.tavernadoshackers.sistema;
 
 public class Conta {
 
