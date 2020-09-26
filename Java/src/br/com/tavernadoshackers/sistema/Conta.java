@@ -16,7 +16,6 @@ public class Conta {
         System.out.println(nome + ", sua conta foi criada com sucesso!");
     }
 
-
     // Métodos
     public void extrato() {
         System.out.println(this.nome + ", seu saldo é de R$" + this.saldo);
@@ -41,7 +40,6 @@ public class Conta {
             System.out.println("Transferência não pode ser realizada. (Saldo insuficiênte!)");
         }
     }
-
 
     // Getters e Setters
     public String getNome() {

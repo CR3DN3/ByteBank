@@ -7,7 +7,6 @@ public class Engenheiro extends Funcionario {
         super(nome, cpf, saldo, numeroConta);
     }
 
-
     // Métodos
     @Override
     public void recebeSalario() {

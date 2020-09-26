@@ -13,7 +13,6 @@ public abstract class Funcionario extends Conta {
         super(nome, cpf, saldo, numeroConta);
     }
 
-
     // Métodos
     public void pedirDemissao() {
         this.demissao = true;
@@ -23,7 +22,6 @@ public abstract class Funcionario extends Conta {
     // Métodos Abstratos
     public abstract void recebeSalario();
     public abstract void recebeBonificacao();
-
 
     // Getters e Setters
     public double getSalario() {
