@@ -18,7 +18,7 @@ public abstract class Funcionario extends Conta {
         this.demissao = true;
         System.out.println(this.getNome() + ", foi demitido.");
     }
-
+    
     // Métodos Abstratos
     public abstract void recebeSalario();
     public abstract void recebeBonificacao();

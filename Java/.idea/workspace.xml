@@ -20,9 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27ee93b5-8fda-43e6-8de5-59070a9c6c52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ByteBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionarios/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sistema/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C#/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/App.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C#/ByteBank.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/ByteBank.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C#/ByteBank.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/ByteBank.sln" afterDir="false" />
@@ -38,13 +35,21 @@
       <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ByteBank/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Engenheiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Engenheiro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ByteBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ByteBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Engenheiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Engenheiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/sistema/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/sistema/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +77,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
   </component>
   <component name="RunManager">
     <configuration name="ByteBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -97,8 +110,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600872843660</updated>
+      <workItem from="1601436114877" duration="44000" />
+      <workItem from="1601436173170" duration="1921000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -113,29 +131,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1600877201719">
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1601251881677">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1600877201719" />
-    <state width="544" height="447" key="GridCell.Tab.0.bottom" timestamp="1601155784403">
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1601251881677" />
+    <state width="519" height="922" key="GridCell.Tab.0.bottom" timestamp="1601441427845">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="447" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1601155784403" />
-    <state width="544" height="447" key="GridCell.Tab.0.center" timestamp="1601155784403">
+    <state width="519" height="922" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
+    <state width="519" height="922" key="GridCell.Tab.0.center" timestamp="1601441427845">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="447" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1601155784403" />
-    <state width="544" height="447" key="GridCell.Tab.0.left" timestamp="1601155784403">
+    <state width="519" height="922" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
+    <state width="519" height="922" key="GridCell.Tab.0.left" timestamp="1601441427845">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="447" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1601155784403" />
-    <state width="544" height="447" key="GridCell.Tab.0.right" timestamp="1601155784403">
+    <state width="519" height="922" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
+    <state width="519" height="922" key="GridCell.Tab.0.right" timestamp="1601441427845">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="447" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1601155784403" />
-    <state x="697" y="161" key="SettingsEditor" timestamp="1600873617438">
+    <state width="519" height="922" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
+    <state x="804" y="131" width="916" height="761" key="SettingsEditor" timestamp="1601437643238">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="697" y="161" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1600873617438" />
+    <state x="804" y="131" width="916" height="761" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1601437643238" />
   </component>
 </project>
