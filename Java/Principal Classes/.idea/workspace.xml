@@ -40,11 +40,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Engenheiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Engenheiro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/tavernadoshackers/funcionarios/Gerente.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ByteBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ByteBank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Engenheiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Engenheiro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Funcionario.java" afterDir="false" />
@@ -112,6 +108,7 @@
       <updated>1600872843660</updated>
       <workItem from="1601436114877" duration="44000" />
       <workItem from="1601436173170" duration="1921000" />
+      <workItem from="1601509705415" duration="29000" />
     </task>
     <servers />
   </component>
