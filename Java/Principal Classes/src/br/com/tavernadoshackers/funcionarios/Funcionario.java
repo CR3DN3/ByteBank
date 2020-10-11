@@ -6,7 +6,6 @@ public abstract class Funcionario extends Conta {
 
     // Atributos
     private double salario;
-    private boolean demissao;
 
     // Construtor
     public Funcionario(String nome, double cpf, double saldo, double numeroConta) {
@@ -15,28 +14,17 @@ public abstract class Funcionario extends Conta {
 
     // Métodos
     public void pedirDemissao() {
-        this.demissao = true;
+        boolean demissao = true;
         System.out.println(this.getNome() + ", foi demitido.");
     }
-    
+
     // Métodos Abstratos
     public abstract void recebeSalario();
+
     public abstract void recebeBonificacao();
 
     // Getters e Setters
     public double getSalario() {
         return salario;
-    }
-
-    public void setSalario(double salario) {
-        this.salario = salario;
-    }
-
-    public boolean isDemissao() {
-        return demissao;
-    }
-
-    public void setDemissao(boolean demissao) {
-        this.demissao = demissao;
     }
 }

@@ -1,72 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ee93b5-8fda-43e6-8de5-59070a9c6c52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../C#/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/App.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/ByteBank.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/ByteBank.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/ByteBank.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/ByteBank.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Funcionarios/Bancario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Funcionarios/Bancario.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Funcionarios/Desenvolvedor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Funcionarios/Desenvolvedor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Funcionarios/Funcionario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Funcionarios/Funcionario.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Funcionarios/Gerente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Funcionarios/Gerente.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Sistema/ContaCorrente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Sistema/ContaCorrente.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/Sistema/SistemaInterno.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/Sistema/SistemaInterno.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/bin/Debug/ByteBank.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/bin/Debug/ByteBank.exe.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/ByteBank.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ByteBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ByteBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Engenheiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Engenheiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/funcionarios/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/tavernadoshackers/sistema/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/tavernadoshackers/sistema/Conta.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c9cd695-97ec-4f78-8cc2-223fa0723cf6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1hutXPZKg0CY8NEaATtKDmaGTdH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1ijRDcLtDvPWH1D2QOi0i1oWYMo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,19 +23,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="discord-application" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="ByteBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ByteBank" />
-      <module name="Java" />
+      <module name="Principal Classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,56 +56,46 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27ee93b5-8fda-43e6-8de5-59070a9c6c52" name="Default Changelist" comment="" />
-      <created>1600872843660</created>
+      <changelist id="3c9cd695-97ec-4f78-8cc2-223fa0723cf6" name="Default Changelist" comment="" />
+      <created>1602418895577</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600872843660</updated>
-      <workItem from="1601436114877" duration="44000" />
-      <workItem from="1601436173170" duration="1921000" />
-      <workItem from="1601509705415" duration="29000" />
+      <updated>1602418895577</updated>
+      <workItem from="1602418897147" duration="1139000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1601251881677">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="768" y="262" width="378" height="587" key="#com.intellij.ide.util.MemberChooser" timestamp="1602418970520">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1601251881677" />
-    <state width="519" height="922" key="GridCell.Tab.0.bottom" timestamp="1601441427845">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="768" y="262" width="378" height="587" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1602418970520" />
+    <state width="1874" height="239" key="GridCell.Tab.0.bottom" timestamp="1602419401044">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="519" height="922" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
-    <state width="519" height="922" key="GridCell.Tab.0.center" timestamp="1601441427845">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1874" height="239" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1602419401044" />
+    <state width="1874" height="239" key="GridCell.Tab.0.center" timestamp="1602419401044">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="519" height="922" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
-    <state width="519" height="922" key="GridCell.Tab.0.left" timestamp="1601441427845">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1874" height="239" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1602419401044" />
+    <state width="1874" height="239" key="GridCell.Tab.0.left" timestamp="1602419401043">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="519" height="922" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
-    <state width="519" height="922" key="GridCell.Tab.0.right" timestamp="1601441427845">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1874" height="239" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1602419401043" />
+    <state width="1874" height="239" key="GridCell.Tab.0.right" timestamp="1602419401044">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="519" height="922" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1601441427845" />
-    <state x="804" y="131" width="916" height="761" key="SettingsEditor" timestamp="1601437643238">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1874" height="239" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1602419401044" />
+    <state x="543" y="292" width="828" height="527" key="IDE.errors.dialog" timestamp="1602420116346">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="804" y="131" width="916" height="761" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1601437643238" />
+    <state x="543" y="292" width="828" height="527" key="IDE.errors.dialog/0.30.1920.1050@0.30.1920.1050" timestamp="1602420116346" />
+    <state x="449" y="191" key="SettingsEditor" timestamp="1602420129240">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="449" y="191" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1602420129240" />
   </component>
 </project>

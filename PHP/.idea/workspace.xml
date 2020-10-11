@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2545fb76-fbf9-4024-be28-5e19aea5c6c1" name="Default Changelist" comment="" />
+    <list default="true" id="f0ff83f9-83d8-4023-8b92-cd74d35ccc01" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +31,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
-  <component name="ProjectId" id="1iIZgcMhTTapcKMqnckRc98YTTd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="1ifna0RGvhy9M5cto7bvdjqf4dl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,14 +40,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sistema" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ByteBank.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ByteBank.php">
@@ -70,12 +73,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2545fb76-fbf9-4024-be28-5e19aea5c6c1" name="Default Changelist" comment="" />
-      <created>1601597179971</created>
+      <changelist id="f0ff83f9-83d8-4023-8b92-cd74d35ccc01" name="Default Changelist" comment="" />
+      <created>1602307575035</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601597179971</updated>
-      <workItem from="1601597181191" duration="6347000" />
+      <updated>1602307575035</updated>
+      <workItem from="1602307576849" duration="97000" />
+      <workItem from="1602307775144" duration="10362000" />
     </task>
     <servers />
   </component>
@@ -92,43 +96,52 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="622" y="215" key="#CLI_Interpreters" timestamp="1601597647380">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="540" y="214" width="828" height="684" key="#CLI_Interpreters" timestamp="1602307926373">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="622" y="215" key="#CLI_Interpreters/0.0.1920.1050@0.0.1920.1050" timestamp="1601597647380" />
-    <state x="667" y="167" key="#PHP" timestamp="1601599511818">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="540" y="214" width="828" height="684" key="#CLI_Interpreters/0.30.1920.1050@0.30.1920.1050" timestamp="1602307926373" />
+    <state x="418" y="214" width="1084" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602312764897">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="667" y="167" key="#PHP/0.0.1920.1050@0.0.1920.1050" timestamp="1601599511818" />
-    <state x="414" y="179" width="1092" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601597628645">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="418" y="214" width="1084" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1602312764897" />
+    <state x="768" y="275" width="441" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1602319991607">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="414" y="179" width="1092" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601597628645" />
-    <state x="720" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601597234098">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="768" y="275" width="441" height="562" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1602319991607" />
+    <state x="691" y="238" width="527" height="636" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602313850911">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="720" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1601597234098" />
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1601605713817">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="691" y="238" width="527" height="636" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1602313850911" />
+    <state width="584" height="898" key="GridCell.Tab.0.bottom" timestamp="1602350995948">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1601605713817" />
-    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1601605713817">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="584" height="898" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1602350995948" />
+    <state width="584" height="898" key="GridCell.Tab.0.center" timestamp="1602350995945">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1601605713817" />
-    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1601605713817">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="584" height="898" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1602350995945" />
+    <state width="584" height="898" key="GridCell.Tab.0.left" timestamp="1602350995944">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1601605713817" />
-    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1601605713817">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="584" height="898" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1602350995944" />
+    <state width="584" height="898" key="GridCell.Tab.0.right" timestamp="1602350995946">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1601605713817" />
-    <state x="232" y="127" width="1448" height="711" key="SettingsEditor" timestamp="1601605194364">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="584" height="898" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1602350995946" />
+    <state x="623" y="272" width="667" height="568" key="NewPhpClassDialog" timestamp="1602311653101">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="232" y="127" width="1448" height="711" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1601605194364" />
+    <state x="623" y="272" width="667" height="568" key="NewPhpClassDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1602311653101" />
+    <state x="756" y="480" width="401" height="151" key="NewPhpFileDialog" timestamp="1602307611268">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="756" y="480" width="401" height="151" key="NewPhpFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1602307611268" />
+    <state x="676" y="181" key="SettingsEditor" timestamp="1602330438622">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="676" y="181" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1602330438622" />
   </component>
 </project>
