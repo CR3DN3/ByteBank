@@ -1,7 +1,0 @@
-C:\Users\ygors\source\repos\ByteBank\bin\Debug\ByteBank.exe.config
-C:\Users\ygors\source\repos\ByteBank\bin\Debug\ByteBank.exe
-C:\Users\ygors\source\repos\ByteBank\bin\Debug\ByteBank.pdb
-C:\Users\ygors\source\repos\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
-C:\Users\ygors\source\repos\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\ygors\source\repos\ByteBank\obj\Debug\ByteBank.exe
-C:\Users\ygors\source\repos\ByteBank\obj\Debug\ByteBank.pdb

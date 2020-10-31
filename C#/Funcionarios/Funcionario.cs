@@ -1,41 +1,28 @@
-﻿using ByteBank.Sistema;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using ByteBank.SistemaInterno;
 
 namespace ByteBank.Funcionarios
 {
-    public abstract class Funcionario : ContaCorrente
+    public abstract class Funcionario : Conta
     {
-        // Getters e Setters
-        public double Salario { get; protected set; }
-        public bool Demitido { get; set; }
-        public static int IdCargo { get; protected set; }
-
+        // Atributos (Getters e Setters)
+        public string Profissao { get; set; }
+        public double Salario { get; set; }
 
         // Construtor
-        public Funcionario(double salario)
-        {
-            this.Salario = salario;
-            IdCargo++;
-        }
+        protected Funcionario(string nome, double cpf, double saldo) : base(nome, cpf, saldo) { }
+
 
         // Métodos
-        public abstract void AumentarSalario();
-
-
-        public void ObterSalario()
+        public override void Extrato()
         {
-            Console.WriteLine(this.Nome + " tem um salário atual de R$" + this.Salario);
+            Console.WriteLine("Nome: " + Nome);
+            Console.WriteLine("CPF: " + Cpf);
+            Console.WriteLine("Saldo: " + Saldo);
+            Console.WriteLine("Salário: " + Salario);
         }
 
-        public virtual bool Demitir()
-        {
-            Console.WriteLine(this.Nome + " acaba de ser demitido.");
-            this.Demitido = true;
-            return this.Demitido;
-        }
+        public abstract void ReceberSalario();
+        public abstract void ReceberAumento();
     }
 }

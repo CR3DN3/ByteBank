@@ -1,22 +1,28 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios
 {
     public class Gerente : Funcionario
     {
         // Construtor
-        public Gerente(double salario) : base(salario) { }
+        public Gerente(string nome, double cpf, double saldo) : base(nome, cpf, saldo)
+        {
+            Profissao = "Gerente";
+            Salario = 10000;
+        }
 
 
         // Métodos
-        public override void AumentarSalario()
+        public override void ReceberSalario()
         {
-            this.Salario = this.Salario + (this.Salario * 0.25);
-            Console.WriteLine(this.Nome + " acabou de receber um aumento de salário. (Valor atual: R$" + this.Salario + ")");
+            Saldo += Salario;
+            Console.WriteLine(Nome + " salário recebido. Valor: R$" + Salario);
+        }
+
+        public override void ReceberAumento()
+        {
+            Salario += (Salario * 0.15);
+            Console.WriteLine(Nome + " aumento recebido de 15%. Salário atual: R$" + Salario);
         }
     }
 }
