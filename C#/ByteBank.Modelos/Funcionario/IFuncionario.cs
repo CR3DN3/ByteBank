@@ -1,4 +1,4 @@
-﻿namespace ByteBank.Funcionario
+﻿namespace ByteBank.Modelos.Funcionario
 {
     public interface IFuncionario
     {

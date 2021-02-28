@@ -1,7 +1,7 @@
 ﻿using System;
-using ByteBank.Conta;
+using ByteBank.Modelos.Conta;
 
-namespace ByteBank.Funcionario
+namespace ByteBank.Modelos.Funcionario
 {
     public abstract class Funcionario : ContaPoupanca, IFuncionario
     {

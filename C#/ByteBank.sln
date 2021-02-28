@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "ByteBank\ByteBank.csproj", "{49DBD45A-26B6-4E62-BA1E-4C414EB798CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.SistemaAgencia", "ByteBank.SistemaAgencia\ByteBank.SistemaAgencia.csproj", "{49DBD45A-26B6-4E62-BA1E-4C414EB798CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Modelos", "ByteBank.Modelos\ByteBank.Modelos.csproj", "{6EA47DAA-5523-4C07-91FA-11FBFE769939}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{49DBD45A-26B6-4E62-BA1E-4C414EB798CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49DBD45A-26B6-4E62-BA1E-4C414EB798CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49DBD45A-26B6-4E62-BA1E-4C414EB798CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA47DAA-5523-4C07-91FA-11FBFE769939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA47DAA-5523-4C07-91FA-11FBFE769939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA47DAA-5523-4C07-91FA-11FBFE769939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA47DAA-5523-4C07-91FA-11FBFE769939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

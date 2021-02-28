@@ -1,4 +1,4 @@
-﻿namespace ByteBank.Conta
+﻿namespace ByteBank.Modelos.Conta
 {
     public interface IConta
     {

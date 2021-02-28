@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ByteBank.Conta
+namespace ByteBank.Modelos.Conta
 {
     public abstract class ContaCorrente : IConta
     {
@@ -11,7 +11,7 @@ namespace ByteBank.Conta
         public double Saldo { get; set; }
         public bool StatusConta { get; set; }
         
-        // Construtor
+        
         protected ContaCorrente(string titular, int numero, double agencia, double saldo, bool statusConta)
         {
             Titular = titular;

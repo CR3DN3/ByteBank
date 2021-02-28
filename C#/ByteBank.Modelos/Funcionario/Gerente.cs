@@ -1,15 +1,15 @@
 ﻿using System;
 
-namespace ByteBank.Funcionario
+namespace ByteBank.Modelos.Funcionario
 {
-    public class Atendente : Funcionario
+    public class Gerente : Funcionario
     {
         // Construtor
-        public Atendente(string titular, int numero, double agencia, double saldo, bool statusConta) : base(titular, 
+        public Gerente(string titular, int numero, double agencia, double saldo, bool statusConta) : base(titular,
             numero, agencia, saldo, statusConta)
         {
-            Cargo = "Atendente";
-            Salario = 2400;
+            Cargo = "Gerente";
+            Salario = 10000;
         }
 
         
@@ -22,7 +22,7 @@ namespace ByteBank.Funcionario
 
         public override void ReceberBonificacao()
         {
-            double bonificacao = Salario * 0.05;
+            double bonificacao = Salario * 0.15;
             Depositar(bonificacao);
             Console.WriteLine($"Bonificação no valor de R${bonificacao} recebida!");
         }
