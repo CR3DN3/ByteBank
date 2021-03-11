@@ -18,7 +18,7 @@ namespace ByteBank
             // Escopo
             contaJoao.ExibirExtrato();
             contaCarlos.ExibirExtrato();
-            
+
             // Finalização
             Console.ReadLine();
         }

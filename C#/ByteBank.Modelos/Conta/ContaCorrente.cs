@@ -5,11 +5,11 @@ namespace ByteBank.Modelos.Conta
     public abstract class ContaCorrente : IConta
     {
         // Getters & Setters
-        public string Titular { get; set; }
-        public int Numero { get; set; }
-        public double Agencia { get; set; }
+        public string Titular { get; }
+        public int Numero { get; }
+        public double Agencia { get; }
         public double Saldo { get; set; }
-        public bool StatusConta { get; set; }
+        public bool StatusConta { get; }
         
         
         protected ContaCorrente(string titular, int numero, double agencia, double saldo, bool statusConta)
